@@ -1,6 +1,18 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tptogiar)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Tptogiar&show_icons=true"/>
+
+### Language
+
+![Java](https://img.shields.io/badge/-Java-18244a?style=flat&logo=go&logoColor=2890d1&color=9cf)
+![Go](https://img.shields.io/badge/-Go-18244a?style=flat&logo=go&logoColor=2890d1&color=9cf)
+![JavaScript](https://img.shields.io/badge/-JavaScript-18244a?style=flat&logo=go&logoColor=2890d1&color=9cf)
+![Python](https://img.shields.io/badge/-Python-18244a?style=flat&logo=go&logoColor=2890d1&color=9cf)
+![C%2B%2B](https://img.shields.io/badge/-C%2B%2B-18244a?style=flat&logo=go&logoColor=2890d1&color=9cf)
+
+
 
 <!--
 **Tptogiar/Tptogiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
