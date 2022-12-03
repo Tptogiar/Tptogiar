@@ -6,19 +6,45 @@
 
 ### Language
 
-![Java](https://img.shields.io/badge/-Java-b0d3ff?style=flat&logo=openjdk&logoColor=14f3ff)
-![Go](https://img.shields.io/badge/-Go-b0d3ff?style=flat&logo=go&logoColor=14f3ff)
-![C%2B%2B](https://img.shields.io/badge/-C/C%2B%2B-b0d3ff?style=flat&logo=cplusplus&logoColor=14f3ff)
-![Python](https://img.shields.io/badge/-Python-b0d3ff?style=flat&logo=python&logoColor=14f3ff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-b0d3ff?style=flat&logo=javascript&logoColor=14f3ff)
+![Java](https://img.shields.io/badge/-Java-b0d3ff?style=flat&logoColor=14f3ff&logo=openjdk)
+![Go](https://img.shields.io/badge/-Go-b0d3ff?style=flat&logoColor=14f3ff&logo=go)
+![C%2B%2B](https://img.shields.io/badge/-C/C%2B%2B-b0d3ff?style=flat&logoColor=14f3ff&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-b0d3ff?style=flat&logoColor=14f3ff&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-b0d3ff?style=flat&logoColor=14f3ff&logo=JavaScript)
+
+
+### 
+
 
 ### Cloud Native
 
-![Java](https://img.shields.io/badge/-Java-b0d3ff?style=flat&logo=openjdk&logoColor=14f3ff)
-![Go](https://img.shields.io/badge/-Go-b0d3ff?style=flat&logo=go&logoColor=14f3ff)
-![C%2B%2B](https://img.shields.io/badge/-C/C%2B%2B-b0d3ff?style=flat&logo=cplusplus&logoColor=14f3ff)
-![Python](https://img.shields.io/badge/-Python-b0d3ff?style=flat&logo=python&logoColor=14f3ff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-b0d3ff?style=flat&logo=javascript&logoColor=14f3ff)
+![Docker](https://img.shields.io/badge/-Docker-b0d3ff?style=flat&logoColor=14f3ff&logo=Docker)
+![Prometheus](https://img.shields.io/badge/-Prometheus-b0d3ff?style=flat&logoColor=14f3ff&logo=Prometheus)
+
+
+### Other Framworks and Tools
+
+![Grafana](https://img.shields.io/badge/-Grafana-b0d3ff?style=flat&logoColor=14f3ff&logo=Grafana)
+![Jenkins](https://img.shields.io/badge/-Jenkins-b0d3ff?style=flat&logoColor=14f3ff&logo=Jenkins)
+![MySQL](https://img.shields.io/badge/-MySQL-b0d3ff?style=flat&logoColor=14f3ff&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-b0d3ff?style=flat&logoColor=14f3ff&logo=PostgreSQL)
+![Redis](https://img.shields.io/badge/-Redis-b0d3ff?style=flat&logoColor=14f3ff&logo=Redis)
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-b0d3ff?style=flat&logoColor=14f3ff&logo=apachekafka)
+
+
+### Other skills
+
+![Vim](https://img.shields.io/badge/-Vim-b0d3ff?style=flat&logoColor=14f3ff&logo=Vim)
+![IDEA](https://img.shields.io/badge/-IDEA-b0d3ff?style=flat&logoColor=14f3ff&logo=IntelliJIDEA)
+
+
+
+
+
+
+
+
+
 
 
 <!--
