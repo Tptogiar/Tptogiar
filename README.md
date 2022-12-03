@@ -15,7 +15,7 @@
 
 
 
-### Other Framworks
+### Framworks
 
 ![MySQL](https://img.shields.io/badge/-MySQL-b0d3ff?style=flat&logoColor=14f3ff&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-b0d3ff?style=flat&logoColor=14f3ff&logo=PostgreSQL)
