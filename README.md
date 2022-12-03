@@ -6,11 +6,11 @@
 
 ### Language
 
-![Java](https://img.shields.io/badge/-Java-18244a?style=flat&logo=go&logoColor=2890d1&color=9cf)
-![Go](https://img.shields.io/badge/-Go-18244a?style=flat&logo=go&logoColor=2890d1&color=9cf)
-![JavaScript](https://img.shields.io/badge/-JavaScript-18244a?style=flat&logo=go&logoColor=2890d1&color=9cf)
-![Python](https://img.shields.io/badge/-Python-18244a?style=flat&logo=go&logoColor=2890d1&color=9cf)
-![C%2B%2B](https://img.shields.io/badge/-C%2B%2B-18244a?style=flat&logo=go&logoColor=2890d1&color=9cf)
+![Java](https://img.shields.io/badge/-Go-b0d3ff?style=flat&logo=openjdk&logoColor=001cd1)
+![Go](https://img.shields.io/badge/-Go-b0d3ff?style=flat&logo=go&logoColor=001cd1)
+![JavaScript](https://img.shields.io/badge/-Go-b0d3ff?style=flat&logo=javascript&logoColor=001cd1)
+![Python](https://img.shields.io/badge/-Go-b0d3ff?style=flat&logo=python&logoColor=001cd1)
+![C%2B%2B](https://img.shields.io/badge/-C/C%2B%2B-b0d3ff?style=flat&logo=cplusplus&logoColor=001cd1)
 
 
 
