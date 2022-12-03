@@ -32,10 +32,9 @@
 ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-b0d3ff?style=flat&logoColor=14f3ff&logo=apachekafka)
 
 
-### Other skills
+### Other Skills
 
-![Vim](https://img.shields.io/badge/-Vim-b0d3ff?style=flat&logoColor=14f3ff&logo=Vim)
-![IDEA](https://img.shields.io/badge/-IDEA-b0d3ff?style=flat&logoColor=14f3ff&logo=IntelliJIDEA)
+[![Other Skills](https://skillicons.dev/icons?i=vue,androidstudio,idea,git,github,linux,vim,blender&perline=10)](https://github.com/Tptogiar)
 
 
 
