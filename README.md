@@ -22,7 +22,7 @@
 ![Prometheus](https://img.shields.io/badge/-Prometheus-b0d3ff?style=flat&logoColor=14f3ff&logo=Prometheus)
 
 
-### Other Framworks and Tools
+### Other Framworks
 
 ![Grafana](https://img.shields.io/badge/-Grafana-b0d3ff?style=flat&logoColor=14f3ff&logo=Grafana)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-b0d3ff?style=flat&logoColor=14f3ff&logo=Jenkins)
