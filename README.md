@@ -30,7 +30,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-b0d3ff?style=flat&logoColor=14f3ff&logo=PostgreSQL)
 ![Redis](https://img.shields.io/badge/-Redis-b0d3ff?style=flat&logoColor=14f3ff&logo=Redis)
 ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-b0d3ff?style=flat&logoColor=14f3ff&logo=apachekafka)
-![Spring](https://img.shields.io/badge/-Spring-b0d3ff?style=flat&logoColor=14f3ff&logo=spring)
+
 
 
 ### Other Skills
