@@ -13,24 +13,25 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-b0d3ff?style=flat&logoColor=14f3ff&logo=JavaScript)
 
 
-### 
-
-
-### Cloud Native
-
-![Docker](https://img.shields.io/badge/-Docker-b0d3ff?style=flat&logoColor=14f3ff&logo=Docker)
-![Prometheus](https://img.shields.io/badge/-Prometheus-b0d3ff?style=flat&logoColor=14f3ff&logo=Prometheus)
 
 
 ### Other Framworks
 
-![Grafana](https://img.shields.io/badge/-Grafana-b0d3ff?style=flat&logoColor=14f3ff&logo=Grafana)
-![Jenkins](https://img.shields.io/badge/-Jenkins-b0d3ff?style=flat&logoColor=14f3ff&logo=Jenkins)
 ![MySQL](https://img.shields.io/badge/-MySQL-b0d3ff?style=flat&logoColor=14f3ff&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-b0d3ff?style=flat&logoColor=14f3ff&logo=PostgreSQL)
+
 ![Redis](https://img.shields.io/badge/-Redis-b0d3ff?style=flat&logoColor=14f3ff&logo=Redis)
+
 ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-b0d3ff?style=flat&logoColor=14f3ff&logo=apachekafka)
 
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-b0d3ff?style=flat&logoColor=14f3ff&logo=Elasticsearch)
+
+![Nginx](https://img.shields.io/badge/-Nginx-b0d3ff?style=flat&logoColor=14f3ff&logo=Nginx)
+
+![Docker](https://img.shields.io/badge/-Docker-b0d3ff?style=flat&logoColor=14f3ff&logo=Docker)
+![Prometheus](https://img.shields.io/badge/-Prometheus-b0d3ff?style=flat&logoColor=14f3ff&logo=Prometheus)
+![Jenkins](https://img.shields.io/badge/-Jenkins-b0d3ff?style=flat&logoColor=14f3ff&logo=Jenkins)
+![Grafana](https://img.shields.io/badge/-Grafana-b0d3ff?style=flat&logoColor=14f3ff&logo=Grafana)
 
 
 ### Other Skills
