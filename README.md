@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tptogiar&show_icons=true"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Tptogiar&show_icons=true"/>
 
 ### Language
 
@@ -36,7 +36,7 @@
 
 ### Other Skills
 
-<img height="20px" src="https://skillicons.dev/icons?i=vue,androidstudio,idea,git,github,linux,vim,blender&perline=10">
+<img height="20px" src="https://skillicons.dev/icons?i=vue,androidstudio,idea,git,github,linux,vim,blender&perline=10"> -->
 
 
 
